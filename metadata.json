@@ -1,0 +1,7 @@
+{
+  "name": "MAX AI",
+  "description": "State-of-the-art voice-to-voice AI assistant with sassy personality and Vash AI neural modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
